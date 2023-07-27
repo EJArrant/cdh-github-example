@@ -1,3 +1,5 @@
+- Aristarchus
+- Humboldt
 - Schickard
 - Metius
 - Tycho
