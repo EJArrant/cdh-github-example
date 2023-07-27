@@ -1,3 +1,0 @@
-- Schickard
-- Metius
-- Tycho
