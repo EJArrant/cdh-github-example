@@ -1,3 +1,0 @@
-- Apollinaris Mons
-- Ascraeus Mons
-- Tanaica Montes
